@@ -1,0 +1,23 @@
+[
+  {
+    "param_name": "iam_domain_name", //参数名称
+    "param_value": "xmlydev",  //默认参数
+    "param_description": "这是一个测试参数", //参数描述
+    "param_order": 1,   //参数序号
+    "sensitive": false   //是否铭感值
+  },
+  {
+    "param_name": "iam_user_name",
+    "param_value": "zongfan.chen",
+    "param_description": "这是一个测试参数2",
+    "param_order": 1,
+    "sensitive": false
+  },
+  {
+    "param_name": "iam_user_password", //参数名称
+    "param_value": "7@sq8escYjGg1",  //默认参数
+    "param_description": "这是一个测试参数", //参数描述
+    "param_order": 1,   //参数序号
+    "sensitive": false   //是否铭感值
+  }
+]
